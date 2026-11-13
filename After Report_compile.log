@@ -1,0 +1,2053 @@
+===== LaTeX pass 1; exit=0 =====
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(After Report.tex
+LaTeX2e <2026-11-01>
+L3 programming layer <2026-09-09>
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2026-06-04 v1.4n Standard LaTeX document class
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+))) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty))
+ (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+ (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty)))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/nameref\nameref.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty)))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty)
+
+==> First Aid for subcaption.sty applied!
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+new hooks used!!
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+.sty) 
+))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-pdft
+ex.def)
+No file "After Report".aux.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 193.
+
+[1{C:/Users/bagad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./assets/o
+sdag_logo.png>]
+No file "After Report".toc.
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 226.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.226 \newpage
+               [1]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 234.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 263.
+
+[2]
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 269.
+
+[3 <./assets/images/girder_top.png (PNG copy)>]
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 277.
+
+[4 <./assets/images/cross_section.png (PNG copy)>]
+Overfull \hbox (142.87495pt too wide) in paragraph at lines 286--310
+[] 
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 312.
+
+[5 <./assets/images/final_geometry.png (PNG copy)>]
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 341.
+
+[6]
+Chapter 1.
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 383.
+
+[7]
+Chapter 2.
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 458.
+
+
+Package fancyhdr Warning: \footskip is too small (28.0pt): 
+(fancyhdr)                Make it at least 31.94443pt, for example:
+(fancyhdr)                \setlength{\footskip}{31.94443pt}.
+
+[8]
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 458.
+
+[9]
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 524.
+
+[10]
+Overfull \hbox (11.88858pt too wide) in alignment at lines 530--535
+ [] [] [] [] [] 
+
+Overfull \hbox (11.88858pt too wide) in alignment at lines 535--539
+ [] [] [] [] [] 
+
+Overfull \hbox (11.88858pt too wide) in alignment at lines 539--561
+ [] [] [] [] [] 
+
+Underfull \hbox (badness 1960) in paragraph at lines 569--569
+[]|\OT1/cmr/bx/n/12 Top Flange (b[] , t[] )
+
+Underfull \hbox (badness 6477) in paragraph at lines 569--569
+[]|\OT1/cmr/bx/n/12 Bottom Flange (b[] ,
+
+Overfull \hbox (14.73405pt too wide) in alignment at lines 566--571
+ [] [] [] [] [] 
+
+Underfull \hbox (badness 1960) in paragraph at lines 573--573
+[]|\OT1/cmr/bx/n/12 Top Flange (b[] , t[] )
+
+Underfull \hbox (badness 6477) in paragraph at lines 573--573
+[]|\OT1/cmr/bx/n/12 Bottom Flange (b[] ,
+
+Overfull \hbox (14.73405pt too wide) in alignment at lines 571--575
+ [] [] [] [] [] 
+
+Overfull \hbox (14.73405pt too wide) in alignment at lines 575--597
+ [] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 597.
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Torsional
+
+Underfull \hbox (badness 2573) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Web Phi-
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Intermediate
+
+Overfull \hbox (6.38718pt too wide) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Longitudinal
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Bearing
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Torsional
+
+Underfull \hbox (badness 2573) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Web Phi-
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Intermediate
+
+Overfull \hbox (6.38718pt too wide) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Longitudinal
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Bearing
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Thick-ness:
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 636.
+
+[12]
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 636.
+
+[13]
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 640.
+
+[14]
+
+LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 713.
+
+[15]
+
+LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 755.
+
+[16]
+
+LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 783.
+
+[17]
+Chapter 3.
+
+LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 866.
+
+
+Package fancyhdr Warning: \footskip is too small (28.0pt): 
+(fancyhdr)                Make it at least 31.94443pt, for example:
+(fancyhdr)                \setlength{\footskip}{31.94443pt}.
+
+[18]
+
+LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 923.
+
+[19]
+
+LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 977.
+
+[20]
+Underfull \hbox (badness 2277) in paragraph at lines 1007--1007
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(1.00) + WL(0.60) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1009--1009
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.75) + WL(1.00) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1011--1011
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.75) + WL(0.60) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1013--1013
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.75) + WL(0.50) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1015--1015
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.20) + WL(0.60) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1017--1017
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.20) + WL(0.50) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1019--1019
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.00) + WL(0.00) +
+
+LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 1021.
+
+[21]
+
+LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 1026.
+
+[22]
+Chapter 4.
+
+Overfull \vbox (4.39998pt too high) detected at line 1049
+
+Overfull \hbox (7.77335pt too wide) in alignment at lines 1045--1064
+[] [] [] [] [] [] [] [] [] 
+
+Overfull \vbox (4.39998pt too high) detected at line 1067
+
+Overfull \hbox (7.77335pt too wide) in alignment at lines 1064--1082
+[] [] [] [] [] [] [] [] [] 
+
+Overfull \hbox (7.77335pt too wide) in alignment at lines 1082--1181
+[] [] [] [] [] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 1181.
+
+[23]
+
+LaTeX Warning: Reference `LastPage' on page 24 undefined on input line 1181.
+
+[24]
+
+LaTeX Warning: Reference `LastPage' on page 25 undefined on input line 1181.
+
+[25]
+
+LaTeX Warning: Reference `LastPage' on page 26 undefined on input line 1232.
+
+[26]
+
+LaTeX Warning: Reference `LastPage' on page 27 undefined on input line 1240.
+
+[27 <./assets/images/bm_envelope.png (PNG copy)>]
+
+LaTeX Warning: Reference `LastPage' on page 28 undefined on input line 1248.
+
+[28 <./assets/images/sf_envelope.png (PNG copy)>]
+
+LaTeX Warning: Reference `LastPage' on page 29 undefined on input line 1258.
+
+[29 <./assets/images/defl_ll.png (PNG copy)>]
+Chapter 5.
+
+LaTeX Warning: Reference `LastPage' on page 30 undefined on input line 1537.
+
+[30]
+
+LaTeX Warning: Reference `LastPage' on page 31 undefined on input line 1537.
+
+[31]
+
+LaTeX Warning: Reference `LastPage' on page 32 undefined on input line 1537.
+
+[32]
+
+LaTeX Warning: Reference `LastPage' on page 33 undefined on input line 1537.
+
+[33]
+
+LaTeX Warning: Reference `LastPage' on page 34 undefined on input line 1537.
+
+[34]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1540--1545
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1545--1549
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1549--1611
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 35 undefined on input line 1611.
+
+[35]
+
+LaTeX Warning: Reference `LastPage' on page 36 undefined on input line 1611.
+
+[36]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1615--1620
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1620--1624
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1624--1686
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 37 undefined on input line 1686.
+
+[37]
+
+LaTeX Warning: Reference `LastPage' on page 38 undefined on input line 1686.
+
+[38]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1690--1695
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1695--1699
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1699--1861
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 39 undefined on input line 1861.
+
+[39]
+
+LaTeX Warning: Reference `LastPage' on page 40 undefined on input line 1861.
+
+[40]
+
+LaTeX Warning: Reference `LastPage' on page 41 undefined on input line 1861.
+
+[41]
+
+LaTeX Warning: Reference `LastPage' on page 42 undefined on input line 1861.
+
+[42]
+
+LaTeX Warning: Reference `LastPage' on page 43 undefined on input line 1861.
+
+[43]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1865--1870
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1870--1874
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1874--1956
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 44 undefined on input line 1956.
+
+[44]
+
+LaTeX Warning: Reference `LastPage' on page 45 undefined on input line 1956.
+
+[45]
+
+LaTeX Warning: Reference `LastPage' on page 46 undefined on input line 1956.
+
+[46]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1960--1965
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1965--1969
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1969--2071
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 47 undefined on input line 2071.
+
+[47]
+
+LaTeX Warning: Reference `LastPage' on page 48 undefined on input line 2071.
+
+[48]
+
+LaTeX Warning: Reference `LastPage' on page 49 undefined on input line 2071.
+
+[49]
+
+LaTeX Warning: Reference `LastPage' on page 50 undefined on input line 2075.
+
+[50]
+
+LaTeX Warning: Reference `LastPage' on page 51 undefined on input line 2198.
+
+[51]
+
+LaTeX Warning: Reference `LastPage' on page 52 undefined on input line 2198.
+
+[52]
+
+LaTeX Warning: Reference `LastPage' on page 53 undefined on input line 2202.
+
+[53]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2202--2207
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2207--2211
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2211--2293
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 54 undefined on input line 2293.
+
+[54]
+
+LaTeX Warning: Reference `LastPage' on page 55 undefined on input line 2293.
+
+[55]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2297--2302
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2302--2306
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2306--2348
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 56 undefined on input line 2348.
+
+[56]
+
+LaTeX Warning: Reference `LastPage' on page 57 undefined on input line 2348.
+
+[57]
+
+LaTeX Warning: Reference `LastPage' on page 58 undefined on input line 2352.
+
+[58]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2352--2357
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2357--2361
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2361--2383
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2386--2391
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2391--2395
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2395--2417
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 59 undefined on input line 2417.
+
+[59]
+Overfull \hbox (4.5622pt too wide) in alignment at lines 2422--2427
+[] [] [] [] [] [] [] 
+
+Overfull \hbox (4.5622pt too wide) in alignment at lines 2427--2431
+[] [] [] [] [] [] [] 
+
+Overfull \hbox (4.5622pt too wide) in alignment at lines 2431--2453
+[] [] [] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 60 undefined on input line 2453.
+
+[60]
+
+LaTeX Warning: Reference `LastPage' on page 61 undefined on input line 2473.
+
+[61]
+
+LaTeX Warning: Reference `LastPage' on page 62 undefined on input line 2526.
+
+[62]
+
+LaTeX Warning: Reference `LastPage' on page 63 undefined on input line 2563.
+
+[63]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2563--2568
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2568--2572
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2572--2590
+[] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 64 undefined on input line 2621.
+
+[64]
+
+LaTeX Warning: Reference `LastPage' on page 65 undefined on input line 2650.
+
+[65]
+
+LaTeX Warning: Reference `LastPage' on page 66 undefined on input line 2735.
+
+[66]
+
+LaTeX Warning: Reference `LastPage' on page 67 undefined on input line 2753.
+
+[67]
+Overfull \hbox (4.31375pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/cmr/bx/n/12 Connection|  
+
+Overfull \hbox (4.31375pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/cmr/bx/n/12 Connection|  
+
+LaTeX Warning: Reference `LastPage' on page 68 undefined on input line 2791.
+
+[68]
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2795--2800
+[] [] [] [] [] [] 
+
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2800--2804
+[] [] [] [] [] [] 
+
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2804--2860
+[] [] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 69 undefined on input line 2860.
+
+[69]
+Overfull \hbox (0.90996pt too wide) in paragraph at lines 2867--2867
+ []|\OT1/cmr/bx/n/12 Capacity 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 2864--2869
+[] [] [] [] [] [] [] [] 
+
+Overfull \hbox (0.90996pt too wide) in paragraph at lines 2871--2871
+ []|\OT1/cmr/bx/n/12 Capacity 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 2869--2873
+[] [] [] [] [] [] [] [] 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 2873--2902
+[] [] [] [] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 70 undefined on input line 2902.
+
+[70]
+
+LaTeX Warning: Reference `LastPage' on page 71 undefined on input line 2920.
+
+[71]
+Overfull \hbox (4.31375pt too wide) in paragraph at lines 2923--2923
+[]|\OT1/cmr/bx/n/12 Connection|  
+
+Overfull \hbox (4.31375pt too wide) in paragraph at lines 2927--2927
+[]|\OT1/cmr/bx/n/12 Connection|  
+
+LaTeX Warning: Reference `LastPage' on page 72 undefined on input line 2958.
+
+[72]
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2962--2967
+[] [] [] [] [] [] 
+
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2967--2971
+[] [] [] [] [] [] 
+
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2971--3027
+[] [] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 73 undefined on input line 3027.
+
+[73]
+Overfull \hbox (0.90996pt too wide) in paragraph at lines 3035--3035
+ []|\OT1/cmr/bx/n/12 Capacity 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 3032--3037
+[] [] [] [] [] [] [] [] 
+
+Overfull \hbox (0.90996pt too wide) in paragraph at lines 3039--3039
+ []|\OT1/cmr/bx/n/12 Capacity 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 3037--3041
+[] [] [] [] [] [] [] [] 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 3041--3070
+[] [] [] [] [] [] [] [] 
+
+LaTeX Warning: Reference `LastPage' on page 74 undefined on input line 3070.
+
+[74]
+
+LaTeX Warning: Reference `LastPage' on page 75 undefined on input line 3126.
+
+[75]
+
+LaTeX Warning: Reference `LastPage' on page 76 undefined on input line 3126.
+
+[76]
+
+LaTeX Warning: Reference `LastPage' on page 77 undefined on input line 3127.
+
+[77]
+
+LaTeX Warning: Reference `LastPage' on page 78 undefined on input line 3133.
+
+[78 <./assets/images/ur_steel_plate_girder.png>]
+
+LaTeX Warning: Reference `LastPage' on page 79 undefined on input line 3139.
+
+[79 <./assets/images/ur_concrete_deck_slab.png>]
+
+LaTeX Warning: Reference `LastPage' on page 80 undefined on input line 3145.
+
+[80 <./assets/images/ur_cross_bracing.png>]
+
+LaTeX Warning: Reference `LastPage' on page 81 undefined on input line 3156.
+
+[81 <./assets/images/ur_end_diaphragm.png>]
+Chapter 6.
+
+LaTeX Warning: Reference `LastPage' on page 82 undefined on input line 3173.
+
+[82]
+
+LaTeX Warning: Reference `LastPage' on page 83 undefined on input line 3182.
+
+[83]
+
+LaTeX Warning: Reference `LastPage' on page 84 undefined on input line 3194.
+
+[84]
+
+LaTeX Warning: Reference `LastPage' on page 85 undefined on input line 3203.
+
+[85 <./assets/images/girder_3d.png (PNG copy)>]
+
+LaTeX Warning: Reference `LastPage' on page 86 undefined on input line 3212.
+
+[86 <./assets/images/section_preview.png (PNG copy)>]
+
+LaTeX Warning: Reference `LastPage' on page 87 undefined on input line 3224.
+
+[87 <./assets/images/stiffener_preview.png (PNG copy)>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3237.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3244.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3251.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `LastPage' on page 88 undefined on input line 3259.
+
+[88 <./assets/images/cb_diagram.png> <./assets/images/cb_bracing.png> <./assets
+/images/cb_top_chord.png> <./assets/images/cb_bottom_chord.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3272.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3279.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3286.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `LastPage' on page 89 undefined on input line 3292.
+
+[89 <./assets/images/ed_diagram.png> <./assets/images/ed_bracing.png> <./assets
+/images/ed_top_chord.png> <./assets/images/ed_bottom_chord.png>]
+Chapter 7.
+
+Overfull \hbox (1.29883pt too wide) in paragraph at lines 3301--3301
+ []|\OT1/cmr/bx/n/12 Quantity| 
+
+Overfull \hbox (1.29883pt too wide) in paragraph at lines 3305--3305
+ []|\OT1/cmr/bx/n/12 Quantity| 
+
+LaTeX Warning: Reference `LastPage' on page 90 undefined on input line 3327.
+
+[90]
+
+LaTeX Warning: Reference `LastPage' on page 91 undefined on input line 3333.
+
+[91 <./assets/images/material_steel.png>]
+
+LaTeX Warning: Reference `LastPage' on page 92 undefined on input line 3340.
+
+[92 <./assets/images/material_concrete_rebar.png>]
+Chapter 8.
+
+Overfull \hbox (2.0331pt too wide) in paragraph at lines 3358--3375
+[][] 
+
+Overfull \hbox (24.71896pt too wide) in paragraph at lines 3381--3396
+[][] 
+
+LaTeX Warning: Reference `LastPage' on page 93 undefined on input line 3398.
+
+[93]
+Overfull \hbox (3.585pt too wide) in paragraph at lines 3408--3409
+[]\OT1/cmr/m/n/12 Fixed bear-ing stiff-ness is mod-elled as $\OML/cmm/m/it/12 k
+ \OT1/cmr/m/n/12 = 1[]000[]000 []$ (vir-tu-ally rigid); free/expansion
+
+LaTeX Warning: Reference `LastPage' on page 94 undefined on input line 3437.
+
+[94]
+Overfull \hbox (19.61945pt too wide) in paragraph at lines 3443--3444
+[]\OT1/cmr/m/n/12 Dead load den-si-ties per IRC 6:2017 Cl.203: struc-tural stee
+l $78\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5 [][]$, con-crete $25\OML/cmm/m/it/12 :
+\OT1/cmr/m/n/12 0 [][]$,
+
+Overfull \hbox (13.74844pt too wide) in paragraph at lines 3445--3446
+[]\OT1/cmr/m/n/12 Impact fac-tor (dy-namic load al-lowance) com-puted from span
+ per IRC 6:2017 Cl.208.2/208.3. 
+
+Overfull \hbox (23.37889pt too wide) in paragraph at lines 3467--3468
+[]\OT1/cmr/m/n/12 Intermediate trans-verse stiff-ener and bear-ing stiff-ener d
+e-sign fol-lows IS 800:2007 Cl.8.7.2/8.7.3
+
+LaTeX Warning: Reference `LastPage' on page 95 undefined on input line 3480.
+
+[95]
+
+LaTeX Warning: Reference `LastPage' on page 96 undefined on input line 3485.
+
+[96]
+
+LaTeX Warning: Reference `LastPage' on page 97 undefined on input line 3513.
+
+[97] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(After Report.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `"After Report".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 3513.
+
+
+ )
+(\end occurred inside a group at level 3)
+
+### semi simple group (level 3) entered at line 3377 (\begingroup)
+### semi simple group (level 2) entered at line 3354 (\begingroup)
+### semi simple group (level 1) entered at line 3297 (\begingroup)
+### bottom level
+(see the transcript file for additional information) <C:\Users\bagad\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\bagad\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/bagad
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Us
+ers/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx8.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/bagad/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/bagad/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/bagad/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bagad/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
+/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+7.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy8.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bagad/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/bagad/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "After Report.pdf" (98 pages, 1310544 bytes).
+Transcript written on "After Report.log".
+
+
+===== LaTeX pass 2; exit=0 =====
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(After Report.tex
+LaTeX2e <2026-11-01>
+L3 programming layer <2026-09-09>
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2026-06-04 v1.4n Standard LaTeX document class
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+))) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty))
+ (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+ (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty)))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/nameref\nameref.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty)))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty)
+
+==> First Aid for subcaption.sty applied!
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+new hooks used!!
+) (C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+.sty) 
+))
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/needspace\needspace.sty
+)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-pdft
+ex.def) (After Report.aux
+
+LaTeX Warning: Label `sec:assumptions' multiply defined.
+
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg)) (After Report.out) (After Report.out)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\bagad\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+[1{C:/Users/bagad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./assets/o
+sdag_logo.png>] (After Report.toc)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.226 \newpage
+               [1]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 234.
+
+[2] [3 <./assets/images/girder_top.png (PNG copy)>] [4 <./assets/images/cross_s
+ection.png (PNG copy)>]
+Overfull \hbox (142.87495pt too wide) in paragraph at lines 286--310
+[] 
+[5 <./assets/images/final_geometry.png (PNG copy)>] [6]
+Chapter 1.
+[7]
+Chapter 2.
+
+Package fancyhdr Warning: \footskip is too small (28.0pt): 
+(fancyhdr)                Make it at least 31.94443pt, for example:
+(fancyhdr)                \setlength{\footskip}{31.94443pt}.
+
+[8] [9] [10]
+Overfull \hbox (11.88858pt too wide) in alignment at lines 530--535
+ [] [] [] [] [] 
+
+Overfull \hbox (11.88858pt too wide) in alignment at lines 535--539
+ [] [] [] [] [] 
+
+Overfull \hbox (11.88858pt too wide) in alignment at lines 539--561
+ [] [] [] [] [] 
+
+Underfull \hbox (badness 1960) in paragraph at lines 569--569
+[]|\OT1/cmr/bx/n/12 Top Flange (b[] , t[] )
+
+Underfull \hbox (badness 6477) in paragraph at lines 569--569
+[]|\OT1/cmr/bx/n/12 Bottom Flange (b[] ,
+
+Overfull \hbox (14.73405pt too wide) in alignment at lines 566--571
+ [] [] [] [] [] 
+
+Underfull \hbox (badness 1960) in paragraph at lines 573--573
+[]|\OT1/cmr/bx/n/12 Top Flange (b[] , t[] )
+
+Underfull \hbox (badness 6477) in paragraph at lines 573--573
+[]|\OT1/cmr/bx/n/12 Bottom Flange (b[] ,
+
+Overfull \hbox (14.73405pt too wide) in alignment at lines 571--575
+ [] [] [] [] [] 
+
+Overfull \hbox (14.73405pt too wide) in alignment at lines 575--597
+ [] [] [] [] [] 
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Torsional
+
+Underfull \hbox (badness 2573) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Web Phi-
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Intermediate
+
+Overfull \hbox (6.38718pt too wide) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Longitudinal
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]|\OT1/cmr/bx/n/12 Bearing
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Torsional
+
+Underfull \hbox (badness 2573) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Web Phi-
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Intermediate
+
+Overfull \hbox (6.38718pt too wide) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Longitudinal
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]|\OT1/cmr/bx/n/12 Bearing
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 620--620
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 622--622
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--624
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--628
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 632--632
+\OT1/cmr/m/n/12 Thick-ness:
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 Fully Re-
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 strained,
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Both
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Flanges
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 Thin Web
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 Yes; Spac-
+
+Underfull \hbox (badness 5302) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Thick-ness: 10
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\OT1/cmr/m/n/12 No.: 4;
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Spac-ing:
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 100 mm;
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\OT1/cmr/m/n/12 Thick-ness:
+[12] [13] [14] [15] [16] [17]
+Chapter 3.
+
+Package fancyhdr Warning: \footskip is too small (28.0pt): 
+(fancyhdr)                Make it at least 31.94443pt, for example:
+(fancyhdr)                \setlength{\footskip}{31.94443pt}.
+
+[18] [19] [20]
+Underfull \hbox (badness 2277) in paragraph at lines 1007--1007
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(1.00) + WL(0.60) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1009--1009
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.75) + WL(1.00) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1011--1011
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.75) + WL(0.60) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1013--1013
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.75) + WL(0.50) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1015--1015
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.20) + WL(0.60) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1017--1017
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.20) + WL(0.50) +
+
+Underfull \hbox (badness 2277) in paragraph at lines 1019--1019
+[]|\OT1/cmr/m/n/12 DL(1.00) + SIDL(1.20/1.00) + LL(0.00) + WL(0.00) +
+[21] [22]
+Chapter 4.
+
+Overfull \vbox (4.39998pt too high) detected at line 1049
+
+Overfull \hbox (7.77335pt too wide) in alignment at lines 1045--1064
+[] [] [] [] [] [] [] [] [] 
+
+Overfull \vbox (4.39998pt too high) detected at line 1067
+
+Overfull \hbox (7.77335pt too wide) in alignment at lines 1064--1082
+[] [] [] [] [] [] [] [] [] 
+
+Overfull \hbox (7.77335pt too wide) in alignment at lines 1082--1181
+[] [] [] [] [] [] [] [] [] 
+[23] [24] [25] [26] [27 <./assets/images/bm_envelope.png (PNG copy)>] [28 <./as
+sets/images/sf_envelope.png (PNG copy)>] [29 <./assets/images/defl_ll.png (PNG 
+copy)>]
+Chapter 5.
+[30] [31] [32] [33] [34]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1540--1545
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1545--1549
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1549--1611
+[] [] [] [] [] 
+[35] [36]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1615--1620
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1620--1624
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1624--1686
+[] [] [] [] [] 
+[37] [38]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1690--1695
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1695--1699
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1699--1861
+[] [] [] [] [] 
+[39] [40] [41] [42] [43]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1865--1870
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1870--1874
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1874--1956
+[] [] [] [] [] 
+[44] [45] [46]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1960--1965
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1965--1969
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 1969--2071
+[] [] [] [] [] 
+[47] [48] [49] [50] [51] [52] [53]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2202--2207
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2207--2211
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2211--2293
+[] [] [] [] [] 
+[54] [55]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2297--2302
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2302--2306
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2306--2348
+[] [] [] [] [] 
+[56] [57] [58]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2352--2357
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2357--2361
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2361--2383
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2386--2391
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2391--2395
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2395--2417
+[] [] [] [] [] 
+[59]
+Overfull \hbox (4.5622pt too wide) in alignment at lines 2422--2427
+[] [] [] [] [] [] [] 
+
+Overfull \hbox (4.5622pt too wide) in alignment at lines 2427--2431
+[] [] [] [] [] [] [] 
+
+Overfull \hbox (4.5622pt too wide) in alignment at lines 2431--2453
+[] [] [] [] [] [] [] 
+[60] [61] [62] [63]
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2563--2568
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2568--2572
+[] [] [] [] [] 
+
+Overfull \hbox (4.73363pt too wide) in alignment at lines 2572--2590
+[] [] [] [] [] 
+[64] [65] [66] [67]
+Overfull \hbox (4.31375pt too wide) in paragraph at lines 2756--2756
+[]|\OT1/cmr/bx/n/12 Connection|  
+
+Overfull \hbox (4.31375pt too wide) in paragraph at lines 2760--2760
+[]|\OT1/cmr/bx/n/12 Connection|  
+[68]
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2795--2800
+[] [] [] [] [] [] 
+
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2800--2804
+[] [] [] [] [] [] 
+
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2804--2860
+[] [] [] [] [] [] 
+[69]
+Overfull \hbox (0.90996pt too wide) in paragraph at lines 2867--2867
+ []|\OT1/cmr/bx/n/12 Capacity 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 2864--2869
+[] [] [] [] [] [] [] [] 
+
+Overfull \hbox (0.90996pt too wide) in paragraph at lines 2871--2871
+ []|\OT1/cmr/bx/n/12 Capacity 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 2869--2873
+[] [] [] [] [] [] [] [] 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 2873--2902
+[] [] [] [] [] [] [] [] 
+[70] [71]
+Overfull \hbox (4.31375pt too wide) in paragraph at lines 2923--2923
+[]|\OT1/cmr/bx/n/12 Connection|  
+
+Overfull \hbox (4.31375pt too wide) in paragraph at lines 2927--2927
+[]|\OT1/cmr/bx/n/12 Connection|  
+[72]
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2962--2967
+[] [] [] [] [] [] 
+
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2967--2971
+[] [] [] [] [] [] 
+
+Overfull \hbox (13.1836pt too wide) in alignment at lines 2971--3027
+[] [] [] [] [] [] 
+[73]
+Overfull \hbox (0.90996pt too wide) in paragraph at lines 3035--3035
+ []|\OT1/cmr/bx/n/12 Capacity 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 3032--3037
+[] [] [] [] [] [] [] [] 
+
+Overfull \hbox (0.90996pt too wide) in paragraph at lines 3039--3039
+ []|\OT1/cmr/bx/n/12 Capacity 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 3037--3041
+[] [] [] [] [] [] [] [] 
+
+Overfull \hbox (32.92905pt too wide) in alignment at lines 3041--3070
+[] [] [] [] [] [] [] [] 
+[74] [75] [76] [77] [78 <./assets/images/ur_steel_plate_girder.png>] [79 <./ass
+ets/images/ur_concrete_deck_slab.png>] [80 <./assets/images/ur_cross_bracing.pn
+g>] [81 <./assets/images/ur_end_diaphragm.png>]
+Chapter 6.
+[82] [83] [84] [85 <./assets/images/girder_3d.png (PNG copy)>] [86 <./assets/im
+ages/section_preview.png (PNG copy)>] [87 <./assets/images/stiffener_preview.pn
+g (PNG copy)>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3237.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3244.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3251.
+See the caption package documentation for explanation.
+
+[88 <./assets/images/cb_diagram.png> <./assets/images/cb_bracing.png> <./assets
+/images/cb_top_chord.png> <./assets/images/cb_bottom_chord.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3272.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3279.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 3286.
+See the caption package documentation for explanation.
+
+[89 <./assets/images/ed_diagram.png> <./assets/images/ed_bracing.png> <./assets
+/images/ed_top_chord.png> <./assets/images/ed_bottom_chord.png>]
+Chapter 7.
+
+Overfull \hbox (1.29883pt too wide) in paragraph at lines 3301--3301
+ []|\OT1/cmr/bx/n/12 Quantity| 
+
+Overfull \hbox (1.29883pt too wide) in paragraph at lines 3305--3305
+ []|\OT1/cmr/bx/n/12 Quantity| 
+[90] [91 <./assets/images/material_steel.png>] [92 <./assets/images/material_co
+ncrete_rebar.png>]
+Chapter 8.
+
+Overfull \hbox (2.0331pt too wide) in paragraph at lines 3358--3375
+[][] 
+
+Overfull \hbox (24.71896pt too wide) in paragraph at lines 3381--3396
+[][] 
+[93]
+Overfull \hbox (3.585pt too wide) in paragraph at lines 3408--3409
+[]\OT1/cmr/m/n/12 Fixed bear-ing stiff-ness is mod-elled as $\OML/cmm/m/it/12 k
+ \OT1/cmr/m/n/12 = 1[]000[]000 []$ (vir-tu-ally rigid); free/expansion
+[94]
+Overfull \hbox (19.61945pt too wide) in paragraph at lines 3443--3444
+[]\OT1/cmr/m/n/12 Dead load den-si-ties per IRC 6:2017 Cl.203: struc-tural stee
+l $78\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5 [][]$, con-crete $25\OML/cmm/m/it/12 :
+\OT1/cmr/m/n/12 0 [][]$,
+
+Overfull \hbox (13.74844pt too wide) in paragraph at lines 3445--3446
+[]\OT1/cmr/m/n/12 Impact fac-tor (dy-namic load al-lowance) com-puted from span
+ per IRC 6:2017 Cl.208.2/208.3. 
+
+Overfull \hbox (23.37889pt too wide) in paragraph at lines 3467--3468
+[]\OT1/cmr/m/n/12 Intermediate trans-verse stiff-ener and bear-ing stiff-ener d
+e-sign fol-lows IS 800:2007 Cl.8.7.2/8.7.3
+[95] [96] [97] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(After Report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 3)
+
+### semi simple group (level 3) entered at line 3377 (\begingroup)
+### semi simple group (level 2) entered at line 3354 (\begingroup)
+### semi simple group (level 1) entered at line 3297 (\begingroup)
+### bottom level
+(see the transcript file for additional information) <C:\Users\bagad\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk> <C:\Users\bagad\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/bagad
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Us
+ers/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmbx8.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/bagad/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/bagad/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/bagad/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bagad/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
+/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
+7.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmsy8.pfb><C:/Users/bagad/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/bagad/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/bagad/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "After Report.pdf" (98 pages, 1346978 bytes).
+Transcript written on "After Report.log".
+
